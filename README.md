@@ -45,8 +45,10 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![image](https://github.com/vijayarajv1704/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/121303741/704862c0-dbb1-426c-990b-3b455fe21136)
+
+### Name: Vijayaraj V
+### Register Number: 212222230174
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
